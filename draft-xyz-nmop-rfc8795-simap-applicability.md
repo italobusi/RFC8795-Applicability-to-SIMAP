@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Applicability of RFC8795 to SIMAP"
+abbrev: "RFC8795 for SIMAP"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-xyz-nmop-rfc8795-simap-applicability-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Italo Busi
+    organization: Huawei Technologies
+    email: italo.busi@huawei.com
 
 normative:
 
